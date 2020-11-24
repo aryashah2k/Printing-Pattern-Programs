@@ -49,4 +49,4 @@ Twitter : https://twitter.com/aryashah2k
 
 Github : https://github.com/aryashah2k
 
-If you Like My Work, Follow me/ Connect with me on these platforms. Show some Love ❤️ Sponsor me on Github!
+If you Like My Work, Follow me/ Connect with me on these platforms. Show some Love ❤️ Sponsor me on Github or Patreon!
