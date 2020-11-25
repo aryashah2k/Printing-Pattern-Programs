@@ -14,7 +14,7 @@ Languages used:
 
 | Language | Logo | View Main Folder |
 |--------| --------- | ---------- |
-| 1. C | Add Link | -----In Progress----- |
+| 1. C | ![c logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%20logo.png) | -----In Progress----- |
 | 2. C++ | Add Link | Add Link |
 | 3. Python | Add Link | -----In Progress----- |
 
