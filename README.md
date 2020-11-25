@@ -12,20 +12,11 @@ Many **Interview Questions and Programming Competitions** have one such question
 
 Languages used:
 
-## 1. C
-
-<!Insert C Logo> 
-<!Add Link To C Folder >
-
-## 2.C++
-
-<!Insert C++ Logo>
-<!Add Link To C++ Folder > 
-
-## 3. Python
-
-<!Insert Python Logo>
-<!Add Link To Python Folder > 
+| Language | Logo | View Main Folder |
+|--------| --------- | ---------- |
+| 1. C | Add Link | -----In Progress----- |
+| 2. C++ | Add Link | Add Link |
+| 3. Python | Add Link | -----In Progress----- |
 
 ## How Can You Contribute?
 
