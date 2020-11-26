@@ -121,6 +121,6 @@
 | 5. | ----- | --------- | ----------- |
 .............................
 
-*Total Series Patterns (Proposed) = *
+*Total Series Patterns (Proposed) = 9*
 
 
