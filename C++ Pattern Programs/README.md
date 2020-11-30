@@ -1,4 +1,4 @@
-### Welcome To The C++ Section Of Programming Patterns And Designs 👋
+### Welcome To The C++ Language Section Of Programming Patterns And Designs 👋
 
 **The Following Types Of Patterns Are Covered:**
 
