@@ -66,24 +66,24 @@
 | 58. | ![Pattern 58](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2058.jpg) |  |  |
 | 59. | ![Pattern 59](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2059.jpg) |  |  |
 | 60. | ![Pattern 60](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2060.jpg) |  |  |
-| 61. | ![Pattern 61]() |  |  |
-| 62. | ![Pattern 62]() |  |  |
-| 63. | ![Pattern 63]() |  |  |
-| 64. | ![Pattern 64]() |  |  |
-| 65. | ![Pattern 65]() |  |  |
-| 66. | ![Pattern 66]() |  |  |
-| 67. | ![Pattern 67]() |  |  |
-| 68. | ![Pattern 68]() |  |  |
-| 69. | ![Pattern 69]() |  |  |
-| 70. | ![Pattern 70]() |  |  |
-| 71. | ![Pattern 71]() |  |  |
-| 72. | ![Pattern 72]() |  |  |
-| 73. | ![Pattern 73]() |  |  |
-| 74. | ![Pattern 74]() |  |  |
-| 75. | ![Pattern 75]() |  |  |
-| 76. | ![Pattern 76]() |  |  |
-| 77. | ![Pattern 77]() |  |  |
-| 78. | ![Pattern 78]() |  |  |
+| 61. | ![Pattern 61](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2061.jpg) |  |  |
+| 62. | ![Pattern 62](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2062.jpg) |  |  |
+| 63. | ![Pattern 63](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2063.jpg) |  |  |
+| 64. | ![Pattern 64](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2064.jpg) |  |  |
+| 65. | ![Pattern 65](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2065.jpg) |  |  |
+| 66. | ![Pattern 66](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2066.jpg) |  |  |
+| 67. | ![Pattern 67](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2067.jpg) |  |  |
+| 68. | ![Pattern 68](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2068.jpg) |  |  |
+| 69. | ![Pattern 69](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2069.jpg) |  |  |
+| 70. | ![Pattern 70](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2070.jpg) |  |  |
+| 71. | ![Pattern 71](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2071.jpg) |  |  |
+| 72. | ![Pattern 72](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2072.jpg) |  |  |
+| 73. | ![Pattern 73](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2073.jpg) |  |  |
+| 74. | ![Pattern 74](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2074.jpg) |  |  |
+| 75. | ![Pattern 75](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2075.jpg) |  |  |
+| 76. | ![Pattern 76](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2076.jpg) |  |  |
+| 77. | ![Pattern 77](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2077.jpg) |  |  |
+| 78. | ![Pattern 78](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2078.jpg) |  |  |
 
 
 *Total Symbol Patterns (Proposed) = 78*
