@@ -286,8 +286,8 @@
 | 92. | ![Pattern 92](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2092.jpg) | --------- | ----------- |
 | 93. | ![Pattern 93](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2093.jpg) | --------- | ----------- |
 | 94. | ![Pattern 94](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2094.jpg) | --------- | ----------- |
-| 95. | ![Pattern 95]() | --------- | ----------- |
-| 96. | ![Pattern 96]() | --------- | ----------- |
+| 95. | ![Pattern 95](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2095.jpg) | --------- | ----------- |
+| 96. | ![Pattern 96](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2096.jpg) | --------- | ----------- |
 | 97. | ![Pattern 97](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2097.jpg) | --------- | ----------- |
 | 98. | ![Pattern 98](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2098.jpg) | --------- | ----------- |
 | 99. | ![Pattern 99](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2099.jpg) | --------- | ----------- |
