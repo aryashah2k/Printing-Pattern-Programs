@@ -287,17 +287,17 @@
 | 93. | ![Pattern 93](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2093.jpg) | --------- | ----------- |
 | 94. | ![Pattern 94](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2094.jpg) | --------- | ----------- |
 | 95. | ![Pattern 95](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2095.jpg) | --------- | ----------- |
-| 96. | ![Pattern 96]() | --------- | ----------- |
-| 97. | ![Pattern 97]() | --------- | ----------- |
-| 98. | ![Pattern 98]() | --------- | ----------- |
-| 99. | ![Pattern 99]() | --------- | ----------- |
-| 100. | ![Pattern 100]() | --------- | ----------- |
-| 101. | ![Pattern 101]() | --------- | ----------- |
-| 102. | ![Pattern 102]() | --------- | ----------- |
-| 103. | ![Pattern 103]() | --------- | ----------- |
-| 104. | ![Pattern 104]() | --------- | ----------- |
-| 105. | ![Pattern 105]() | --------- | ----------- |
-| 106. | ![Pattern 106]() | --------- | ----------- |
+| 96. | ![Pattern 96](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2096.jpg) | --------- | ----------- |
+| 97. | ![Pattern 97](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2097.jpg) | --------- | ----------- |
+| 98. | ![Pattern 98](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2098.jpg) | --------- | ----------- |
+| 99. | ![Pattern 99](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2099.jpg) | --------- | ----------- |
+| 100. | ![Pattern 100](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20100.jpg) | --------- | ----------- |
+| 101. | ![Pattern 101](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20101.jpg) | --------- | ----------- |
+| 102. | ![Pattern 102](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20102.jpg) | --------- | ----------- |
+| 103. | ![Pattern 103](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20103.jpg) | --------- | ----------- |
+| 104. | ![Pattern 104](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20104.jpg) | --------- | ----------- |
+| 105. | ![Pattern 105](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20105.jpg) | --------- | ----------- |
+| 106. | ![Pattern 106](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20106.jpg) | --------- | ----------- |
 
 
 *Total Numeric Patterns (Proposed) = 106*
