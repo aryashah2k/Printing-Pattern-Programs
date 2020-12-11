@@ -364,10 +364,10 @@
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
-| 1. | ![Spiral 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%201.jpg) | --------- | ----------- |
-| 2. | ![Spiral Alphabets](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Alphabets.jpg) | --------- | ----------- |
-| 3. | ![Spiral Number Zig Zag](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Number%20Zig%20Zag.jpg) | --------- | ----------- |
-| 4. | ![Spiral Reverse](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Reverse.jpg) | --------- | ----------- |
+| 1. | ![Spiral 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%201.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 2. | ![Spiral Alphabets](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Alphabets.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 3. | ![Spiral Number Zig Zag](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Number%20Zig%20Zag.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 4. | ![Spiral Reverse](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Reverse.jpg) | <a href="">Click To View Code</a> | ----------- |
 
 *Total Spiral Patterns (Proposed) = 4*
 
@@ -376,33 +376,33 @@
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
-| 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%201.jpg) | --------- | ----------- |
-| 2. | ![Pattern 2](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%202.jpg) | --------- | ----------- |
-| 3. | ![Pattern 3](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%203.jpg) | --------- | ----------- |
-| 4. | ![Pattern 4](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%204.jpg) | --------- | ----------- |
-| 5. | ![Pattern 5](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%205.jpg) | --------- | ----------- |
-| 6. | ![Pattern 6](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%206.jpg) | --------- | ----------- |
-| 7. | ![Pattern 7](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%207.jpg) | --------- | ----------- |
-| 8. | ![Pattern 8](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%208.jpg) | --------- | ----------- |
-| 9. | ![Pattern 9](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%209.jpg) | --------- | ----------- |
-| 10. | ![Pattern 10](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2010.jpg) | --------- | ----------- |
-| 11. | ![Pattern 11](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2011.jpg) | --------- | ----------- |
-| 12. | ![Pattern 12](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2012.jpg) | --------- | ----------- |
-| 13. | ![Pattern 13](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2013.jpg) | --------- | ----------- |
-| 14. | ![Pattern 14](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2014.jpg) | --------- | ----------- |
-| 15. | ![Pattern 15](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2015.jpg) | --------- | ----------- |
-| 16. | ![Pattern 16](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2016.jpg) | --------- | ----------- |
-| 17. | ![Pattern 17](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2017.jpg) | --------- | ----------- |
-| 18. | ![Pattern 18](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2018.jpg) | --------- | ----------- |
-| 19. | ![Pattern 19](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2019.jpg) | --------- | ----------- |
-| 20. | ![Pattern 20](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2020.jpg) | --------- | ----------- |
-| 21. | ![Pattern 21](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2021.jpg) | --------- | ----------- |
-| 22. | ![Pattern 22](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2022.jpg) | --------- | ----------- |
-| 23. | ![Pattern 23](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2023.jpg) | --------- | ----------- |
-| 24. | ![Pattern 24](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2024.jpg) | --------- | ----------- |
-| 25. | ![Pattern 25](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2025.jpg) | --------- | ----------- |
-| 26. | ![Pattern 26](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2026.jpg) | --------- | ----------- |
-| 27. | ![Pattern 27](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2027.jpg) | --------- | ----------- |
+| 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%201.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 2. | ![Pattern 2](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%202.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 3. | ![Pattern 3](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%203.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 4. | ![Pattern 4](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%204.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 5. | ![Pattern 5](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%205.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 6. | ![Pattern 6](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%206.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 7. | ![Pattern 7](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%207.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 8. | ![Pattern 8](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%208.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 9. | ![Pattern 9](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%209.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 10. | ![Pattern 10](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2010.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 11. | ![Pattern 11](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2011.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 12. | ![Pattern 12](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2012.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 13. | ![Pattern 13](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2013.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 14. | ![Pattern 14](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2014.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 15. | ![Pattern 15](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2015.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 16. | ![Pattern 16](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2016.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 17. | ![Pattern 17](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2017.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 18. | ![Pattern 18](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2018.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 19. | ![Pattern 19](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2019.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 20. | ![Pattern 20](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2020.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 21. | ![Pattern 21](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2021.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 22. | ![Pattern 22](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2022.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 23. | ![Pattern 23](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2023.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 24. | ![Pattern 24](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2024.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 25. | ![Pattern 25](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2025.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 26. | ![Pattern 26](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2026.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 27. | ![Pattern 27](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%2027.jpg) | <a href="">Click To View Code</a> | ----------- |
 
 *Total Wave Patterns (Proposed) = 27*
 
@@ -411,15 +411,15 @@
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
-| 1. | ![Arithmetic Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Arithmetic%20Series.jpg) | --------- | ----------- |
-| 2. | ![Cube Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Cube%20Numbers%20Series.jpg) | --------- | ----------- |
-| 3. | ![Even Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Even%20Number%20Series.jpg) | --------- | ----------- |
-| 4. | ![Fibonacci Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Fibonacci%20Series.jpg) | --------- | ----------- |
-| 5. | ![Geometric Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Geometric%20Series.jpg) | --------- | ----------- |
-| 6. | ![Odd Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Odd%20Number%20Series.jpg) | --------- | ----------- |
-| 7. | ![Prime Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Prime%20Numbers%20Series.jpg) | --------- | ----------- |
-| 8. | ![Square Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Square%20Numbers%20Series.jpg) | --------- | ----------- |
-| 9. | ![Triangular Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Triangular%20Numbers%20Series.jpg) | --------- | ----------- |
+| 1. | ![Arithmetic Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Arithmetic%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 2. | ![Cube Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Cube%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 3. | ![Even Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Even%20Number%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 4. | ![Fibonacci Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Fibonacci%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 5. | ![Geometric Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Geometric%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 6. | ![Odd Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Odd%20Number%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 7. | ![Prime Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Prime%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 8. | ![Square Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Square%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 9. | ![Triangular Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Series%20Patterns/assets/Triangular%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
 
 *Total Series Patterns (Proposed) = 9*
 
