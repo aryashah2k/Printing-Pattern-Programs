@@ -364,10 +364,10 @@
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
-| 1. | ![Spiral 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%201.jpg) | --------- | ----------- |
-| 2. | ![Spiral Alphabets](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Alphabets.jpg) | --------- | ----------- |
-| 3. | ![Spiral Number Zig Zag](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Number%20Zig%20Zag.jpg) | --------- | ----------- |
-| 4. | ![Spiral Reverse](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Reverse.jpg) | --------- | ----------- |
+| 1. | ![Spiral 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%201.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 2. | ![Spiral Alphabets](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Alphabets.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 3. | ![Spiral Number Zig Zag](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Number%20Zig%20Zag.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 4. | ![Spiral Reverse](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Spiral%20Patterns/assets/Spiral%20Reverse.jpg) | <a href="">Click To View Code</a> | ----------- |
 
 *Total Spiral Patterns (Proposed) = 4*
 
