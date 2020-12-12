@@ -411,15 +411,15 @@
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
-| 1. | ![Arithmetic Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Arithmetic%20Series.jpg) | --------- | ----------- |
-| 2. | ![Cube Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Cube%20Numbers%20Series.jpg) | --------- | ----------- |
-| 3. | ![Even Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Even%20Number%20Series.jpg) | --------- | ----------- |
-| 4. | ![Fibonacci Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Fibonacci%20Series.jpg) | --------- | ----------- |
-| 5. | ![Geometric Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Geometric%20Series.jpg) | --------- | ----------- |
-| 6. | ![Odd Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Odd%20Number%20Series.jpg) | --------- | ----------- |
-| 7. | ![Prime Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Prime%20Numbers%20Series.jpg) | --------- | ----------- |
-| 8. | ![Square Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Square%20Numbers%20Series.jpg) | --------- | ----------- |
-| 9. | ![Triangular Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Triangular%20Numbers%20Series.jpg) | --------- | ----------- |
+| 1. | ![Arithmetic Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Arithmetic%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 2. | ![Cube Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Cube%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 3. | ![Even Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Even%20Number%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 4. | ![Fibonacci Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Fibonacci%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 5. | ![Geometric Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Geometric%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 6. | ![Odd Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Odd%20Number%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 7. | ![Prime Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Prime%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 8. | ![Square Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Square%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 9. | ![Triangular Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Series%20Patterns/assets/Triangular%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | ----------- |
 
 *Total Series Patterns (Proposed) = 9*
 
