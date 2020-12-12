@@ -272,32 +272,32 @@
 | 78. | ![Pattern 78](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2078.jpg) | <a href="">Click To View Code</a> | ----------- |
 | 79. | ![Pattern 79](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2079.jpg) | <a href="">Click To View Code</a> | ----------- |
 | 80. | ![Pattern 80](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2080.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 81. | ![Pattern 81](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2081.jpg) |  | ----------- |
-| 82. | ![Pattern 82](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2082.jpg) |  | ----------- |
-| 83. | ![Pattern 83](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2083.jpg) |  | ----------- |
-| 84. | ![Pattern 84](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2084.jpg) |  | ----------- |
-| 85. | ![Pattern 85](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2085.jpg) |  | ----------- |
-| 86. | ![Pattern 86](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2086.jpg) |  | ----------- |
-| 87. | ![Pattern 87](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2087.jpg) |  | ----------- |
-| 88. | ![Pattern 88](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2088.jpg) |  | ----------- |
-| 89. | ![Pattern 89](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2089.jpg) |  | ----------- |
-| 90. | ![Pattern 90](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2090.jpg) |  | ----------- |
-| 91. | ![Pattern 91](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2091.jpg) |  | ----------- |
-| 92. | ![Pattern 92](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2092.jpg) |  | ----------- |
-| 93. | ![Pattern 93](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2093.jpg) |  | ----------- |
-| 94. | ![Pattern 94](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2094.jpg) |  | ----------- |
-| 95. | ![Pattern 95](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2095.jpg) |  | ----------- |
-| 96. | ![Pattern 96](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2096.jpg) |  | ----------- |
-| 97. | ![Pattern 97](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2097.jpg) |  | ----------- |
-| 98. | ![Pattern 98](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2098.jpg) |  | ----------- |
-| 99. | ![Pattern 99](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2099.jpg) |  | ----------- |
-| 100. | ![Pattern 100](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20100.jpg) |  | ----------- |
-| 101. | ![Pattern 101](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20101.jpg) |  | ----------- |
-| 102. | ![Pattern 102](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20102.jpg) |  | ----------- |
-| 103. | ![Pattern 103](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20103.jpg) |  | ----------- |
-| 104. | ![Pattern 104](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20104.jpg) |  | ----------- |
-| 105. | ![Pattern 105](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20105.jpg) |  | ----------- |
-| 106. | ![Pattern 106](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20106.jpg) |  | ----------- |
+| 81. | ![Pattern 81](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2081.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 82. | ![Pattern 82](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2082.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 83. | ![Pattern 83](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2083.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 84. | ![Pattern 84](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2084.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 85. | ![Pattern 85](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2085.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 86. | ![Pattern 86](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2086.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 87. | ![Pattern 87](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2087.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 88. | ![Pattern 88](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2088.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 89. | ![Pattern 89](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2089.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 90. | ![Pattern 90](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2090.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 91. | ![Pattern 91](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2091.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 92. | ![Pattern 92](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2092.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 93. | ![Pattern 93](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2093.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 94. | ![Pattern 94](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2094.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 95. | ![Pattern 95](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2095.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 96. | ![Pattern 96](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2096.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 97. | ![Pattern 97](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2097.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 98. | ![Pattern 98](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2098.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 99. | ![Pattern 99](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%2099.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 100. | ![Pattern 100](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20100.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 101. | ![Pattern 101](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20101.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 102. | ![Pattern 102](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20102.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 103. | ![Pattern 103](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20103.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 104. | ![Pattern 104](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20104.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 105. | ![Pattern 105](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20105.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 106. | ![Pattern 106](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%20Pattern%20Programs/Numeric%20Patterns/assets/Pattern%20106.jpg) | <a href="">Click To View Code</a> | ----------- |
 
 
 *Total Numeric Patterns (Proposed) = 106*
