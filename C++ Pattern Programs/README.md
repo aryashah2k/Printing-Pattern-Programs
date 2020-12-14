@@ -6,7 +6,7 @@
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
-| 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%201.jpg) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/Program%201.cpp">Code</a> <br> <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/Program%201.cpp">Code</a> |  |
+| 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%201.jpg) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/Program%201.cpp">Click To View Code</a> |  |
 | 2. | ![Pattern 2](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%202.jpg) | <a href="">Click To View Code</a> |  |
 | 3. | ![Pattern 3](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%203.jpg) | <a href="">Click To View Code</a> |  |
 | 4. | ![Pattern 4](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%204.jpg) | <a href="">Click To View Code</a> |  |
