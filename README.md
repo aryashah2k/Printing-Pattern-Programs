@@ -6,6 +6,7 @@
 
 <a href="https://www.patreon.com/bePatron?u=45451225" data-patreon-widget-type="become-patron-button">Become a Patron!😇</a>
 
+# About
 
 Hello there 👋, and welcome to this awesome, well maintained repository that contains a huge collection of patterns and designs created using programming languages.
 
