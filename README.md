@@ -20,9 +20,9 @@ Languages used:
 
 | Language | Logo | View Main Folder |
 |--------| --------- | ---------- |
-| 1. C | ![c logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/C%20Pattern%20Programs">Click to View</a> |
-| 2. C++ | ![c++ logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%2B%2B%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/C%2B%2B%20Pattern%20Programs">Click to View</a> |
-| 3. Python | ![python logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/python%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/Python%20Pattern%20Programs">Click to View</a> |
+| 1. C | ![c logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/C%20Pattern%20Programs">Click to View</a> <br> <In Progress>|
+| 2. C++ | ![c++ logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%2B%2B%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/C%2B%2B%20Pattern%20Programs">Click to View</a> <br> <In Progress>|
+| 3. Python | ![python logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/python%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/Python%20Pattern%20Programs">Click to View</a> <br> <In Progress>|
 
 ## How Can You Contribute?
 
