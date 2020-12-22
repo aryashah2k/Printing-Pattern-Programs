@@ -6,16 +6,16 @@
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
-| 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%201.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 2. | ![Pattern 2](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%202.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 3. | ![Pattern 3](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%203.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 4. | ![Pattern 4](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%204.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 5. | ![Pattern 5](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%205.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 6. | ![Pattern 6](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%206.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 7. | ![Pattern 7](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%207.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 8. | ![Pattern 8](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%208.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 9. | ![Pattern 9](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%209.jpg) | <a href="">Click To View Code</a> | ----------- |
-| 10. | ![Pattern 10](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2010.jpg) | <a href="">Click To View Code</a> | ----------- |
+| 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%201.jpg) | <a href="">Click To View Code</a> |  |
+| 2. | ![Pattern 2](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%202.jpg) | <a href="">Click To View Code</a> |  |
+| 3. | ![Pattern 3](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%203.jpg) | <a href="">Click To View Code</a> |  |
+| 4. | ![Pattern 4](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%204.jpg) | <a href="">Click To View Code</a> |  |
+| 5. | ![Pattern 5](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%205.jpg) | <a href="">Click To View Code</a> |  |
+| 6. | ![Pattern 6](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%206.jpg) | <a href="">Click To View Code</a> |  |
+| 7. | ![Pattern 7](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%207.jpg) | <a href="">Click To View Code</a> |  |
+| 8. | ![Pattern 8](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%208.jpg) | <a href="">Click To View Code</a> |  |
+| 9. | ![Pattern 9](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%209.jpg) | <a href="">Click To View Code</a> |  |
+| 10. | ![Pattern 10](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2010.jpg) | <a href="">Click To View Code</a> |  |
 | 11. | ![Pattern 11](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2011.jpg) | <a href="">Click To View Code</a> |  |
 | 12. | ![Pattern 12](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2012.jpg) | <a href="">Click To View Code</a> |  |
 | 13. | ![Pattern 13](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2013.jpg) | <a href="">Click To View Code</a> |  |
