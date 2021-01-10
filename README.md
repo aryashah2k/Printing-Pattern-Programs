@@ -43,14 +43,5 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Donate / Support / Buy Me A Coffee!
 
-<a href="https://www.patreon.com/bePatron?u=45451225">
-<img align="left" alt="Arya Shah | Patreon" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/patreon.svg" />
-</a>	
-
-<a href="https://ko-fi.com/aryashah">
-<img align="left" alt="Arya Shah | Ko-Fi" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/ko-fi.svg" />
-</a>
-<br>
 	
