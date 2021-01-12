@@ -1,10 +1,6 @@
 # Programming Patterns And Designs
 
-## Donate / Support / Buy Me A Coffee!
-
-<a href="https://ko-fi.com/aryashah">Buy Me A Coffee ☕, Donate as less as 2$</a>
-
-<a href="https://www.patreon.com/bePatron?u=45451225" data-patreon-widget-type="become-patron-button">Become a Patron!😇</a>
+<a href="https://ko-fi.com/aryashah">Buy Me A Coffee ☕, Donate as less as 2$</a> | <a href="https://www.patreon.com/bePatron?u=45451225" data-patreon-widget-type="become-patron-button">Become a Patron!😇</a>
 
 |Donate/Support|View My Work(In Progress!)|Follow / Connect With Me|Follow / Connect With Me|
 |-----|-----|-----|-----|
