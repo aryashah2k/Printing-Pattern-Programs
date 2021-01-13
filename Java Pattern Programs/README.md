@@ -88,7 +88,7 @@
 
 *Total Symbol Patterns (Proposed) = 78*
 
-## 2.Alphabetic Patterns
+## 2.Alphabetic Patterns  [Under Progress]
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
@@ -188,7 +188,7 @@
 *Total Alphabetic Patterns (Proposed) = 91*
 
 
-## 3.Numeric Patterns
+## 3.Numeric Patterns  [Under Progress]
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
@@ -303,7 +303,7 @@
 *Total Numeric Patterns (Proposed) = 106*
 
 
-## 4.Pyramid Patterns
+## 4.Pyramid Patterns  [Under Progress]
 
 | No. | Image | View Code | Description |
 | --- | ----- | --------- | ----------- |
