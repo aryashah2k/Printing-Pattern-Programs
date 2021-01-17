@@ -354,7 +354,9 @@
 | 45. | ![Pattern 45](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2045.jpg) | <a href="">Click To View Code</a> | 
 | 46. | ![Pattern 46](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2046.jpg) | <a href="">Click To View Code</a> | 
 | 47. | ![Pattern 47](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2047.jpg) | <a href="">Click To View Code</a> | 
-
+| 48. | ![Pattern 48](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2048.jpg) | <a href="">Click To View Code</a> | 
+| 49. | ![Pattern 49](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2049.png) | <a href="">Click To View Code</a> | 
+| 50. | ![Pattern 50](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%2B%2B%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2050.jpg) | <a href="">Click To View Code</a> | 
 
 
 *Total Pyramid Patterns (Proposed) = 47*
