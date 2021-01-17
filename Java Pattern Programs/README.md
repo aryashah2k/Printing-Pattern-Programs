@@ -303,9 +303,9 @@
 *Total Numeric Patterns (Proposed) = 106*
 
 
-## 4.Pyramid Patterns  [Under Progress]
+## 4.Pyramid Patterns
 
-| No. | Image | View Code |
+| No. | Image | View Code | 
 | --- | ----- | --------- | 
 | 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%201.jpg) | <a href="">Click To View Code</a> | 
 | 2. | ![Pattern 2](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%202.jpg) | <a href="">Click To View Code</a> | 
@@ -354,11 +354,9 @@
 | 45. | ![Pattern 45](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2045.jpg) | <a href="">Click To View Code</a> | 
 | 46. | ![Pattern 46](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2046.jpg) | <a href="">Click To View Code</a> | 
 | 47. | ![Pattern 47](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2047.jpg) | <a href="">Click To View Code</a> | 
-
-
-
-*Total Pyramid Patterns (Proposed) = 47*
-
+| 48. | ![Pattern 48](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2048.jpg) | <a href="">Click To View Code</a> | 
+| 49. | ![Pattern 49](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2049.png) | <a href="">Click To View Code</a> | 
+| 50. | ![Pattern 50](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2050.jpg) | <a href="">Click To View Code</a> | 
 
 ## 5.Spiral Patterns
 
