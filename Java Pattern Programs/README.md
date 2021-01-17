@@ -372,7 +372,7 @@
 
 ## 6.Wave Patterns
 
-| No. | Image | View Code | Description |
+| No. | Image | View Code |
 | --- | ----- | --------- | 
 | 1. | ![Pattern 1](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%201.jpg) | <a href="">Click To View Code</a> | 
 | 2. | ![Pattern 2](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Java%20Pattern%20Programs/Wave%20Patterns/assets/Pattern%202.jpg) | <a href="">Click To View Code</a> | 
