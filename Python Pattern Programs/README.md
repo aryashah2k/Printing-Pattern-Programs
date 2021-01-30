@@ -87,7 +87,7 @@
 | 79. | ![Pattern 79](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/assets/Pattern%2079.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/Python%20Pattern%20Programs/Symbol%20Patterns/Pattern%2079.py">Click To View Code</a> | 
 
 
-*Total Symbol Patterns (Proposed) = 78*
+*Total Symbol Patterns (Proposed) = 79*
 
 ## 2.Alphabetic Patterns
 
