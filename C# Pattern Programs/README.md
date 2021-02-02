@@ -416,7 +416,7 @@
 | No. | Image | View Code | 
 | --- | ----- | --------- | 
 | 1. | ![Arithmetic Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/assets/Arithmetic%20Series.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/Pattern%201.cs">Click To View Code</a> | 
-| 2. | ![Cube Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/assets/Cube%20Numbers%20Series.jpg) | <a href="">Click To View Code</a> | 
+| 2. | ![Cube Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/assets/Cube%20Numbers%20Series.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/Pattern%202.cs">Click To View Code</a> | 
 | 3. | ![Even Number Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/assets/Even%20Number%20Series.jpg) | <a href="">Click To View Code</a> | 
 | 4. | ![Fibonacci Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/assets/Fibonacci%20Series.jpg) | <a href="">Click To View Code</a> | 
 | 5. | ![Geometric Series](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Series%20Patterns/assets/Geometric%20Series.jpg) | <a href="">Click To View Code</a> | 
