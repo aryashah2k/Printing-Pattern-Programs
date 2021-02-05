@@ -356,7 +356,7 @@
 | 47. | ![Pattern 47](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2047.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/Pattern%2047.cs">Click To View Code</a> | 
 | 48. | ![Pattern 48](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2048.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/Pattern%2048.cs">Click To View Code</a> | 
 | 49. | ![Pattern 49](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2049.png) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/Pattern%2049.cs">Click To View Code</a> | 
-| 50. | ![Pattern 50](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2050.jpg) | <a href="">Click To View Code</a> | 
+| 50. | ![Pattern 50](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/assets/Pattern%2050.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/C%23%20Pattern%20Programs/Pyramid%20Patterns/Pattern%2050.cs">Click To View Code</a> | 
 
 
 
