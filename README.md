@@ -22,7 +22,7 @@ Languages used:
 | Language | Logo | View Main Folder |
 |--------| --------- | ---------- |
 | 1. C | ![c logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/C%20Pattern%20Programs">Click to View</a> <br> In Progress |
-| 2. C++ | ![c++ logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%2B%2B%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/C%2B%2B%20Pattern%20Programs">Click to View</a> <br> In Progress |
+| 2. C++ | ![c++ logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/c%2B%2B%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/CPlusPlus%20Pattern%20Programs">Click to View</a> <br> In Progress |
 | 3. Python | ![python logo](https://github.com/aryashah2k/Programming-Patterns-And-Designs/blob/main/assets/python%20logo.png) | <a href="https://github.com/aryashah2k/Programming-Patterns-And-Designs/tree/main/Python%20Pattern%20Programs">Click to View</a> |
 | 4. Java | ![Java logo](https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/assets/Java%20Logo.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/tree/main/Java%20Pattern%20Programs">Click to View</a> <br> Not Started |
 | 5. C# [C Sharp] | ![CSharp logo](https://github.com/aryashah2k/Printing-Pattern-Programs/blob/main/assets/CSharp%20Logo.jpg) | <a href="https://github.com/aryashah2k/Printing-Pattern-Programs/tree/main/CSharp%20Pattern%20Programs">Click to View</a> <br> Not Started |
