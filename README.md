@@ -1,5 +1,7 @@
 # Programming Patterns And Designs
 
+[![Join the chat at https://gitter.im/Printing-Pattern-Programs/community](https://badges.gitter.im/Printing-Pattern-Programs/community.svg)](https://gitter.im/Printing-Pattern-Programs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Join the chat at https://gitter.im/Printing-Pattern-Programs/WebAppDiscussion](https://badges.gitter.im/Printing-Pattern-Programs/WebAppDiscussion.svg)](https://gitter.im/Printing-Pattern-Programs/WebAppDiscussion?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="https://ko-fi.com/aryashah">Buy Me A Coffee ☕, Donate as less as 2$</a> | <a href="https://www.patreon.com/bePatron?u=45451225" data-patreon-widget-type="become-patron-button">Become a Patron!😇</a>
 
 |Donate/Support|View My Work(In Progress!)|Follow / Connect With Me|Follow / Connect With Me|
