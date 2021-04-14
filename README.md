@@ -9,7 +9,8 @@
 The Repository Will Be Archived Soon and Complete Restructuring has been shifted to an Organization - PatternHouse Which has individual repositories, Website Dev, and everything else that the repository needs to grow into.
 # We request you to join the Github Organization PatternHouse to Continue Contributing and Be a part of our worklfow.
 
-## Organization Link: 
+## Organization Link: https://github.com/PatternHouse
+
 ## How Do I join PatternHouse?
 - We are working towards Github Actions where prospective members can join the organization without asking for an invite.
 - For now, We request you to open an Issue in the Join_PatternHouse Repository with your credentials: Github Email ID, Github Username and any special messages and I shall personally send an invite to join the Organization!
