@@ -7,7 +7,7 @@
 # BIG UPDATE: 
 
 The Repository Will Be Archived Soon and Complete Restructuring has been shifted to an Organization - PatternHouse Which has individual repositories, Website Dev, and everything else that the repository needs to grow into.
-# We request you to join the Github Organization PatternHouse to Continue Contributing and Be a part of our worklfow.
+# We request you to join the Github Organization PatternHouse to Continue Contributing and Be a part of our workflow.
 
 ## Organization Link: https://github.com/PatternHouse
 
