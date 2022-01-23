@@ -9,7 +9,7 @@
 The Repository Will Be Archived Soon and Complete Restructuring has been shifted to an Organization - PatternHouse Which has individual repositories, Website Dev, and everything else that the repository needs to grow into.
 # ⚠️We request you to join the Github Organization PatternHouse to Continue Contributing and Be a part of our workflow.⚠️
 
-## ❗Organization Link: https://github.com/PatternHouse ❗
+## ❗Organization Link: https://github.com/openAOD ❗
 
 ## How Do I join PatternHouse?
 - We are working towards Github Actions where prospective members can join the organization without asking for an invite.
